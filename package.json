@@ -10,7 +10,7 @@
   "license": "MIT",
   "devDependencies": {
     "ajv": "^8.17.1",
-    "bin-tester": "^7.0.1",
+    "bin-tester": "^8.0.0",
     "commander": "^14.0.2",
     "puppeteer": "^24.27.0",
     "typescript": "^5.9.3",
